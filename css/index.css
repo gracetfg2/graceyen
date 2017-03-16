@@ -1,0 +1,89 @@
+body{
+	background-image: url('../photo/crossword.png');	
+	width: 80%;
+}
+
+.publication-record {
+	padding-top: 20px;
+}
+
+#name {
+	font-size: 32px;
+	font-weight: bold;
+}
+
+
+#section-title {
+	margin-top: 20px;
+	font-weight: bold;
+	font-size: 20px;
+color: #EC7063;
+
+}
+
+#pub-list{
+	margin-top: 20px;
+	font-size: 14px;
+}
+
+
+
+#project-title {
+	font-size: 100%;
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+#project-content {
+	font-size: 14px;
+
+
+}
+#cv {
+	font-size: 110%;
+	font-family: 'Dancing Script', cursive;
+	font-weight: bold;
+}
+
+#project-entry {
+	margin-bottom: 10px;
+}
+.bio {
+	
+	font-family: 'Merriweather Sans', Georgia;	
+	font-size: 16px;
+	line-height: 1.5;
+
+}
+#bio-middle {
+	font-size: 110%;
+	font-weight: bold;
+	line-height: 1.5;
+
+}
+
+#bio-sketch {
+	font-size: 120%;
+	line-height: 1.5;
+font-family: 'Titillium Web', sans-serif;
+
+}
+#pub-table {border: none;}
+
+footer
+{
+	text-align: center;
+	color: #666;
+	font-family: Sylfaen, Georgia, sans-serif;
+	border-top: 1px dashed #CCC;
+	padding: 10px;
+	width: 80%;
+	margin: 0 auto;
+}
+#name{
+	color:#FA5858;
+}
+
+
+
+
